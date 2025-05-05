@@ -19195,7 +19195,7 @@ input[type="number"] {
 .navbar-brand-logo {
   width: 100%;
   min-width: 6rem;
-  max-width: 6rem;
+  max-width: 12rem;
 }
 .navbar-brand-collapsed,
 .navbar-brand-on-scroll {
